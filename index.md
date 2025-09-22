@@ -14,11 +14,11 @@ I am a climate scientist focused on understanding the drivers of recent global c
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 10px;">
 
-[**PD28 / Climatic Footprints**](/pd28/){: .btn .btn-primary }  
-[**Research**](/research/){: .btn .btn-primary }  
-[**Publications**](/publications/){: .btn .btn-primary }  
-[**Collaborations**](/collaborations/){: .btn .btn-primary }  
-[**Contact**](/contact/){: .btn .btn-primary }
+<a class="button" href="/pd28/">PD28 / Climatic Footprints</a>
+<a class="button" href="/research/">Research</a>
+<a class="button" href="/publications/">Publications</a>
+<a class="button" href="/collaborations/">Collaborations</a>
+<a class="button" href="/contact/">Contact</a>
 
 </div>
 
