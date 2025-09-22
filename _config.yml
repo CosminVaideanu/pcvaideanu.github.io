@@ -1,0 +1,11 @@
+title: "Petru Vaideanu"
+description: "Researcher in climate variability, sea ice, and large-scale climate modes."
+baseurl: "" # leave empty since you're using a custom domain (pcvaideanu.org)
+url: "https://www.pcvaideanu.org"
+
+theme: jekyll-theme-minimal  # or whatever theme you're using now
+
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
