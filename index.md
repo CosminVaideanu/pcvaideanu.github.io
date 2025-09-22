@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Home"
+layout: home
+
 ---
 
 # Welcome to My Research Page
