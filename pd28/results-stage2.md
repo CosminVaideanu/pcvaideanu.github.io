@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Stage 2: Data Analysis and Identification of Coupled Interactions"
-permalink: /pd28/results/results-stage2/
+permalink: /pd28/results-stage2/
 ---
 
 # Stage 2: Data Analysis and Identification of Coupled Interactions
@@ -35,7 +35,7 @@ These patterns demonstrate that while anthropogenic warming is the primary drive
 
 ## Atlantic SST–Global SIC Links from Reanalysis
 
-![CCA_SIC_Plos](../images/CCA_SIC_Plos.png)
+![CCA_SIC_Plos](/pd28/images/CCA_SIC_Plos.png)
 
 Using long-term reanalysis data, we further identified a **multi-decadal connection between the Atlantic Ocean circulation (AMOC) and global sea ice variability**.  
 When the AMOC is strong, the North Atlantic warms, Arctic sea ice declines, and Antarctic sea ice slightly expands — illustrating an inter-hemispheric "seesaw." These results underscore the importance of natural oceanic variability in shaping polar climate trends, even in the presence of strong anthropogenic forcing.
