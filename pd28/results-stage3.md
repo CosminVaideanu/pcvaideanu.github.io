@@ -13,7 +13,7 @@ AWI-ESM2.1 is a state-of-the-art climate model participating in CMIP6 and includ
 
 ## Key Findings from the AWI-ESM2.1 Simulations
 
-![CCA_AWI](../images/CCA_AWI.png)
+![CCA_AWI](/pd28/images/CCA_AWI.png)
 
 CCA was applied to detrended historical (1850–2014) SST and SIC anomalies from AWI-ESM2.1 to reveal dominant coupled modes of variability:
 
@@ -24,4 +24,11 @@ CCA was applied to detrended historical (1850–2014) SST and SIC anomalies from
 - **Second CCA Pair:**  
   Reveals a subpolar SST–SIC connection with a lower explained variance (≈ 16%), likely capturing internal variability modes such as multidecadal oscillations.
 
-Despite some model biases, AWI-ESM2.1 was able to reproduce the **spatial structure** and **temporal evolution** of the observed SST–SIC relationships, providing confidence in its ability to represent coupled ocean–ice processes under historical forcing. These results emphasize that both anthropogenic forcing and natural variability are essential for interpreting observed Arctic changes.
+Despite minor model biases, AWI-ESM2.1 was able to reproduce the **spatial structure** and **temporal evolution** of the observed SST–SIC relationships, providing confidence in its ability to represent coupled ocean–ice processes under historical forcing. These results emphasize that both anthropogenic forcing and natural variability are essential for interpreting observed Arctic changes.
+
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px; justify-content: center;">
+  <a class="button" href="/pd28/results-stage2/" style="padding: 10px 18px; background-color: #6c757d; color: white; border-radius: 8px; text-decoration: none; font-weight: bold;">⬅ Back to Stage 2</a>
+  <a class="button" href="/pd28/results/" style="padding: 10px 18px; background-color: #5a6268; color: white; border-radius: 8px; text-decoration: none; font-weight: bold;">Back to Results</a>
+</div>
