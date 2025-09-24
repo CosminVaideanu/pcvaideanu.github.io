@@ -29,7 +29,7 @@ The first two modes of TCC variability were derived from annual cloud anomalies 
 
 Both modes are dominated by interannual variability. The first two modes explain about 35% (ISCCP) and 32% (PATMOS-x) of total variance, while remaining variability is spread across many small-scale modes likely dominated by noise.
 
-![Figure R1](/pd28/images/FigureR1.png)  
+![Figure R1](/pd28/images/EOF1_TCC.png)  
 *Figure R1. Global modes of TCC variability (Vaideanu et al. 2023a, [source link](https://www.mdpi.com/2073-4433/14/3/456)). Left: spatial structures of EOF1 and EOF2/EOF3 from ISCCP, PATMOS-x, and ERA5 datasets. Right: associated principal component time series.*
 
 ---
@@ -40,7 +40,7 @@ The leading mode of Arctic SIC variability (EOF1) accounts for ~34% of the total
 - The most pronounced negative anomalies occur over the East Greenland, Barents, and Kara Seas, with weaker signals over Baffin Bay.  
 - The principal component shows a marked downward trend after the 1980s, consistent with accelerated Arctic sea-ice loss.
 
-![Figure R2](/pd28/images/FigureR2.png)  
+![Figure R2](/pd28/images/EOF1_SIC.png)  
 *Figure R2. Dominant mode of Arctic SIC variability identified from annual NSIDC anomalies (Vaideanu et al. 2023b, [source link](https://doi.org/10.1371/journal.pone.0290437.g001)). Panel (a): spatial pattern of EOF1 (34% variance explained). Panel (b): associated time series.*
 
 ---
