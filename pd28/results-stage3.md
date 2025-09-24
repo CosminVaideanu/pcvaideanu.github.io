@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Stage 3: AWI-ESM2.1 Model Analysis"
-permalink: /pd28/results/results-stage3/
+permalink: /pd28/results-stage3/
 ---
 
 # Stage 3: Analysis Using the AWI-ESM2.1 Climate Model
