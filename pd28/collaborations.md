@@ -6,31 +6,43 @@ permalink: /pd28/collaborations/
 
 # Collaborations and Partnerships
 
-The **PD28 / Climatic Footprints** project benefited from strong collaborations with leading research institutions and initiatives, which greatly enhanced the scientific impact and visibility of the project.
+The **PD28 / *Climatic Footprints*** project was greatly enriched by collaborations with leading research institutes and international initiatives.  
+These partnerships provided access to state-of-the-art models, data, and expertise — and ensured that the project’s results reached both the scientific community and policymakers.
 
 ---
 
-## Alfred Wegener Institute (AWI)
+## 🌊 Alfred Wegener Institute (AWI)
 
-Collaboration with the **Alfred Wegener Institute for Polar and Marine Research (AWI)** played a key role in the project.  
-Through this partnership, AWI-ESM2.1 climate model simulations were analyzed and interpreted jointly, leading to robust results on coupled SST–sea ice variability.  
-
----
-
-## HIDA – Helmholtz Information & Data Science Academy
-
-Two research visits to AWI were financed through **HIDA (Helmholtz Information & Data Science Academy)**.  
-These visits provided hands-on access to AWI model data, strengthened knowledge exchange, and supported the integration of advanced statistical tools into the analysis.
+Collaboration with the [**Alfred Wegener Institute Helmholtz Center for Polar and Marine Research (AWI)**](https://www.awi.de/en.html) played a central role in the project.  
+Through close cooperation with the [**Paleoclimate Dynamics Group**](https://www.awi.de/en/science/climate-sciences/paleoclimate-dynamics.html), we jointly analyzed **AWI-ESM2.1** simulations, leading to robust insights into coupled **SST–sea ice variability** under historical climate forcing.
 
 ---
 
-## DBU – German Federal Environmental Foundation
+## 🧠 HIDA – Helmholtz Information & Data Science Academy
 
-Support and collaboration through **DBU (Deutsche Bundesstiftung Umwelt)** helped connect project results with broader discussions on environmental sustainability and climate policy.
+Two research visits to AWI were financed through [**HIDA (Helmholtz Information & Data Science Academy)**](https://www.helmholtz-hida.de/en/).  
+These visits facilitated:
+- Hands-on access to AWI climate model data  
+- Advanced training in statistical analysis  
+- Strengthened knowledge exchange with international experts  
 
 ---
 
-## Global Solutions Summit
+## 🌱 DBU – German Federal Environmental Foundation
 
-Results from PD28 were disseminated at the **Global Solutions Summit**, an international platform linking science with global policymaking.  
-Participation in this event ensured that the project outcomes reached not only academic peers but also stakeholders and decision makers.
+Through [**DBU (Deutsche Bundesstiftung Umwelt)**](https://www.dbu.de/en/), the project was connected to the broader **sustainability and environmental innovation community**.  
+DBU also awards the prestigious [**German Environmental Prize**](https://www.dbu.de/en/umweltpreis/), highlighting projects with strong environmental impact — providing inspiration and visibility for the outcomes of PD28.
+
+---
+
+## 🌍 Global Solutions Summit
+
+Results from PD28 were also presented at the [**Global Solutions Summit**](https://www.global-solutions-initiative.org/),  
+an international platform that links **scientific research** with **global policymaking**.  
+This ensured that project outcomes informed not just the academic community but also **stakeholders and decision-makers**.
+
+---
+
+<div style="margin-top: 20px; display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <a class="button" href="/pd28/" style="padding: 10px 18px; background-color: #5a6268; color: white; border-radius: 8px; text-decoration: none; font-weight: bold;">⬅ Back to PD28 Home</a>
+</div>
