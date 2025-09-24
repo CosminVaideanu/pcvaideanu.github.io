@@ -12,7 +12,7 @@ Building on the groundwork laid in Stage 1, this phase applied **Canonical Corre
 
 ## Coupled SST–TCC Patterns (ENSO Fingerprints)
 
-![CCA_TCC](../images/CCA_TCC.png)
+![CCA_TCC](/pd28/images/CCA_TCC.png)
 
 This analysis revealed that much of the global cloud variability is tied to **Pacific climate modes**, particularly the El Niño–Southern Oscillation (ENSO).  
 The third CCA pair corresponds to the **Eastern Pacific (EP) ENSO**, showing warm SST anomalies in the eastern equatorial Pacific and increased cloudiness over the same region and the Atlantic. The fourth CCA pair captures the **Central Pacific (CP) ENSO**, marked by a V-shaped SST pattern in the central Pacific and cloud anomalies consistent with a shift in tropical convection. Together, these results confirm that global cloud patterns are strongly modulated by ENSO phases, with direct impacts on global radiation balance.
@@ -21,7 +21,7 @@ The third CCA pair corresponds to the **Eastern Pacific (EP) ENSO**, showing war
 
 ## Coupled SST–SIC Patterns (Anthropogenic and Natural Drivers)
 
-![CCA_SIC](../images/CCA_SIC.png)
+![CCA_SIC](/pd28/images/CCA_SIC.png)
 
 This analysis revealed **three dominant SST–SIC relationships** that shape Arctic sea ice variability:
 
@@ -43,3 +43,11 @@ When the AMOC is strong, the North Atlantic warms, Arctic sea ice declines, and 
 ---
 
 Together, these findings from Stage 2 provide a comprehensive view of how human activities and natural variability interact to shape clouds and sea ice on a global scale.
+
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 20px; justify-content: center;">
+  <a class="button" href="/pd28/results-stage1/" style="padding: 10px 18px; background-color: #6c757d; color: white; border-radius: 8px; text-decoration: none; font-weight: bold;">⬅ Back to Stage 1</a>
+  <a class="button" href="/pd28/results/" style="padding: 10px 18px; background-color: #5a6268; color: white; border-radius: 8px; text-decoration: none; font-weight: bold;">Back to Results</a>
+  <a class="button" href="/pd28/results-stage3/" style="padding: 10px 18px; background-color: #0056b3; color: white; border-radius: 8px; text-decoration: none; font-weight: bold;">Next: Stage 3 ➡</a>
+</div>
