@@ -13,4 +13,4 @@ You can read or download the full scientific report of the **PD28 / Climatic Foo
 ---
 
 
-The report provides a comprehensive overview of how the project has advanced understanding of natural and anthropogenic contributions to climate variability, with implications for reducing uncertainty in future projections.
+The report provides a comprehensive overview of how the project has achieved its objectives and has advanced understanding of natural and anthropogenic contributions to climate variability, with implications for reducing uncertainty in future projections.
